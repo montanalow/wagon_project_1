@@ -1,0 +1,17 @@
+2010-09-02 23:07:40,514 main       DEBUG  Starting Wagon Simulator Pro 2010 Extreme Limited Edition [game.py:setup_logging:33]
+2010-09-02 23:07:40,514 main       DEBUG  Setting up game [game.py:setup:40]
+2010-09-02 23:07:40,535 main       DEBUG  Initializing pygame [game.py:setup:52]
+2010-09-02 23:07:42,153 main       DEBUG  Using SDL driver: Quartz [game.py:setup:60]
+2010-09-02 23:07:42,154 main       DEBUG  <VideoInfo(hw = 0, wm = 1,video_mem = 0
+	     blit_hw = 0, blit_hw_CC = 0, blit_hw_A = 0,
+	     blit_sw = 0, blit_sw_CC = 0, blit_sw_A = 0,
+	     bitsize  = 32, bytesize = 4,
+	     masks =  (16711680, 65280, 255, 0),
+	     shifts = (16, 8, 0, 0),
+	     losses =  (0, 0, 0, 0),
+	     current_w = 2560, current_h = 1600
+>
+ [game.py:setup:61]
+2010-09-02 23:07:44,216 main       DEBUG  Main loop starting [game.py:go:79]
+2010-09-02 23:08:03,073 main       DEBUG  Main loop exited [game.py:go:112]
+2010-09-02 23:08:03,073 main       DEBUG  cleaning up [game.py:cleanup:117]
